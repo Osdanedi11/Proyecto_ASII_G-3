@@ -1,0 +1,1 @@
+import{j as r,s as e}from"./index-mwIoYwbM.js";import{B as n}from"./usePageReady-CDo_7Gb4.js";function d({status:a}){const o=a==="completada"||a==="finalizado"||a==="activo"?"success":a==="atrasada"?"danger":a==="en_progreso"?"info":"warning";return r.jsx(n,{tone:o,children:e(a)})}export{d as S};
